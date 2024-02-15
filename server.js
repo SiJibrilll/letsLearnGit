@@ -1,2 +1,2 @@
-var server = 'local';
-var password = 'wooo';
+var server = 'cpanel';
+var password = '1233';
